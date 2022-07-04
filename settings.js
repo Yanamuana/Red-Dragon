@@ -19,8 +19,8 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is Yana V5🔥
+My Creator is Abdul gans😎` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+6285783062411'] //Owner number in aive msg
 global.premium = ['+6285783062411'] //Owner Number info
@@ -30,17 +30,17 @@ global.ownername = '😎Abrulgans' //Owner Name
 global.botname = ' ☬Yana༒V5࿐' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-ll_g9I' //Change Your Button's URL
+global.btnurl = 'https://youtu.be/EC-ll_g9I' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬Yana༒V5࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.author = '😎Yana x Abrul❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '©_Yana.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/Yamamuana' //Github Account!
