@@ -1,6 +1,6 @@
 //════════════(00)════════════════\\
 //
-//          RED DRAGON v6.0
+//          YANA V5 v6.0
 //
 //════════════(00)════════════════\\
 
@@ -20,7 +20,7 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is Yana V5🔥
-My Creator is Abdul gans😎` //Costomize Alive Message (type your message in `` )
+My Creator is Abrul gans😎` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+6285783062411'] //Owner number in aive msg
 global.premium = ['+6285783062411'] //Owner Number info
