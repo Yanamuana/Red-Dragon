@@ -20,7 +20,7 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is Yana V5🔥
-My Creator is Abrul gans😎` //Costomize Alive Message (type your message in `` )
+Saya di buat oleh owner Abrul gans😎` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+6285783062411'] //Owner number in aive msg
 global.premium = ['+6285783062411'] //Owner Number info
@@ -61,7 +61,7 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 // DO NOT CHANGE \\
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 10,
     monayawal: 1000
 }
    global.rpg = {
